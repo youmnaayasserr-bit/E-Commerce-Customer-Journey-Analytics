@@ -178,11 +178,12 @@ These recommendations are investigative opportunities, not claims of demonstrate
 
 | File | Description |
 |---|---|
-| `ecommerce_analysis_annotated.sql` | SQL preparation, validation, and analysis |
-| `SQL+pb.png` | Completed Power BI dashboard screenshot |
-| `README.md` | Project overview and technical documentation |
+| [`ecommerce_customer_journey_analysis.sql`](ecommerce_customer_journey_analysis.sql) | SQL data preparation, cleaning, validation, and analytical queries |
+| [`SQL+pb.png`](SQL+pb.png) | Completed Power BI dashboard screenshot |
+| [`ECommerce_Customer_Journey_Report1.pdf`](ECommerce_Customer_Journey_Report1.pdf) | Detailed analytical report, findings, recommendations, and conclusions |
+| [`README.md`](README.md) | Project overview and technical documentation |
 
-The Power BI `.pbix` file and detailed analytical PDF report will be linked when available in the repository.
+The repository provides access to the SQL analysis, completed dashboard preview, and analytical report. The editable Power BI (`.pbix`) file is not currently hosted in the repository due to file-size limitations.
 
 ## Future Enhancements
 
